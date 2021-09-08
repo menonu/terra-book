@@ -3,9 +3,10 @@
 import sys
 from datetime import datetime
 
-def run(address: str, begin_utc: datetime, end_utc: datetime):
 
+def run(address: str, begin_utc: datetime, end_utc: datetime):
     pass
+
 
 if __name__ == '__main__':
     if len(sys.argv) < 4:
