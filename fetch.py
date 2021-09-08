@@ -4,6 +4,7 @@ import sys
 from datetime import datetime
 
 def run(address: str, begin_utc: datetime, end_utc: datetime):
+
     pass
 
 if __name__ == '__main__':
